@@ -1,0 +1,3 @@
+# Preview copy: not for search engines
+User-agent: *
+Disallow: /
